@@ -1,2 +1,2 @@
 # Multimeter
-Test for resistance ,capacitace,current voltage
+EMBEDDED C program to calculating for resistance ,capacitace,current, voltage .
